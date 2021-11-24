@@ -1,2 +1,2 @@
-# idgeo-webmapping-training-code
+# webmapping-training-code
 code files for the webmapping training
